@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "4FxndQ872OkFPE4jiEyu9REmfuKb8KniFRlZtzl/cDfFCLBj2WdrcMmcAKSdTGhCCB0Z8mf3bEnPWSoiq1bmow==",
+  "success": true,
+  "projectFilePath": "D:\\.CTS_Docs\\Stage_4\\Practice Check Azure\\Practice check\\OrderItem\\OrderItem\\OrderItem.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\adith\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.11.1\\microsoft.visualstudio.azure.containers.tools.targets.1.11.1.nupkg.sha512",
+    "C:\\Users\\adith\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
